@@ -1,2 +1,2 @@
 # Git-Final-Project
-This is our hot 
+This is our GIT Team Project
